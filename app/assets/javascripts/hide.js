@@ -12,7 +12,7 @@
 
 let hideWhenClicked = (event) {
   let clicked = $(event.target);
-  $clicked.hide();
+  clicked.hide();
 }
 
 $['#hide_this').click(hideWhenClicked)]
