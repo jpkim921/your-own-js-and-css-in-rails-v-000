@@ -15,4 +15,4 @@ let hideWhenClicked = (event) {
   clicked.hide();
 }
 
-$['#hide_this').click(hideWhenClicked)]
+$('#hide_this').click(hideWhenClicked)]
