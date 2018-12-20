@@ -15,4 +15,4 @@ let hideWhenClicked = (event) {
   $clicked.hide();
 }
 
-$['#hide_this').click(callbackFn)]
+$['#hide_this').click(hideWhenClicked)]
