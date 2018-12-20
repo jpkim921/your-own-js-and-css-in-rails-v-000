@@ -11,7 +11,7 @@
 
 
 let hideWhenClicked = (event) {
-  let $clicked = $(event.target);
+  let clicked = $(event.target);
   $clicked.hide();
 }
 
